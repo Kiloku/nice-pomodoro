@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>test.png</file>
+        <file>PomoGreen.png</file>
+        <file>PomoOrange.png</file>
+        <file>PomoRed.png</file>
+        <file>PomoYellow.png</file>
+    </qresource>
+</RCC>
